@@ -49,7 +49,7 @@ La Terre s’est formée il y a 4,6 milliards d’années par accrétion (1) d�
 
 ### Document 7: Diagramme de phase de l’eau.
 
-<a href="https://ipfs.io/ipfs/QmXBknScKEP3P6GMe8U3ygMWpeY7UxtPMiNhBxisQj7UDL"><img src="https://ipfs.io/ipfs/QmXBknScKEP3P6GMe8U3ygMWpeY7UxtPMiNhBxisQj7UDL" alt="" width=50%></a>
+<div align=center><a href="https://ipfs.io/ipfs/QmXBknScKEP3P6GMe8U3ygMWpeY7UxtPMiNhBxisQj7UDL"><img src="https://ipfs.io/ipfs/QmXBknScKEP3P6GMe8U3ygMWpeY7UxtPMiNhBxisQj7UDL" alt="" width=50%></a></div>
 
 
 
