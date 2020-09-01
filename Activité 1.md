@@ -6,7 +6,7 @@ Thème 1: Science, climat et société. Chapitre 1: L’atmosphère terrestre et
 La planète Terre s’est formée il y’a environ 4,6 milliards d’années, presque en même temps que le soleil et les autres planètes du système solaire. Elle possède une atmosphère, c’est à dire un ensemble de gaz retenus par gravité à sa surface, mais aussi des océans constitués d’eau.
 
 
-<p class=center><strong>Comment a évolué la composition de l’atmosphère terrestre ?</br></br>Comment se sont formés les océans sur Terre ?</strong></p>
+<p align=center><strong>Comment a évolué la composition de l’atmosphère terrestre ?</br></br>Comment se sont formés les océans sur Terre ?</strong></p>
 
 
 **À partir de l'exploitation rigoureuse de l'ensemble des documents, expliquer comment on peut reconstituer la composition de l'atmosphère primitive et montrer que son évolution est la conséquence d'interactions avec et entre la biosphère, l'hydrosphère et la lithosphère.**
