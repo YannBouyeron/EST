@@ -4,9 +4,9 @@ _________
 
 **Groupe 1: Semaine du 28-09-2020:**
 
-- Terminer [l'activité 3]() sur le cycle du carbone.
+- Terminer [l'activité 3](https://github.com/YannBouyeron/EST/blob/master/A3.md) sur le cycle du carbone.
 
-- Faire [l'activité 4]() sur le delta 18O
+- Faire [l'activité 4](https://github.com/YannBouyeron/EST/blob/master/A4.md) sur le delta 18O
 
 
 __________
