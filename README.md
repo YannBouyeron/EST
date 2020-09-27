@@ -1,5 +1,14 @@
 # Enseignement scientifique Terminale.
 
+_________
+
+**Groupe 1: Semaine du 28-09-2020:**
+
+- Terminer [l'activité 3]() sur le cycle du carbone.
+
+- Faire [l'activité 4]() sur le delta 18O
+
+
 __________
 
 
