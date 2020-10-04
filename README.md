@@ -1,5 +1,13 @@
 # Enseignement scientifique Terminale.
 
+________
+
+**Groupe 2: Semaine du 05-10-2020:**
+
+- Revoir les activités 1, 2, et 3. **Il y aura un petit devoir la semaine prochaine.**
+
+- Faire [l'activité 4](https://github.com/YannBouyeron/EST/blob/master/A4.md) sur le delta 18O
+
 _________
 
 **Groupe 1: Semaine du 28-09-2020:**
