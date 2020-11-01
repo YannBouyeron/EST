@@ -1,5 +1,9 @@
 # Enseignement scientifique Terminale.
 
+______
+
+- Le début du [cours](https://github.com/YannBouyeron/EST/blob/master/cours.md) est disponible.
+
 _______
 
 **Groupe 1: Semaine du 12-10-2020:**
