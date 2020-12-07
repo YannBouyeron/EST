@@ -6,7 +6,9 @@
 
 La Terre s’est formée en même temps que le système solaire il y’a 4,55 Ga, par accrétion de planétésimaux. Une atmosphère primitive s’est rapidement formée pas dégazage du manteau terrestre.
 
-Il est possible d’estimer la composition de l’atmosphère primitive par différentes méthodes (analyse des chondrites ou des inclusions fluides des roches volcaniques d’origine mantellique). La comparaison de la composition de l’atmosphère primitive et de l’atmosphère actulle montre que les concentrations en H<sub>2</sub>O et CO<sub>2</sub> ont diminué au cours du temps tandis que les concentrations en N<sub>2</sub> et O<sub>2</sub> ont augmenté.
+Il est possible d’estimer la composition de l’atmosphère primitive par différentes méthodes (analyse des chondrites ou des inclusions fluides des roches volcaniques d’origine mantellique). 
+
+La comparaison de la composition de l’atmosphère primitive et de l’atmosphère actulle montre que les concentrations en H<sub>2</sub>O et CO<sub>2</sub> ont diminué au cours du temps tandis que les concentrations en N<sub>2</sub> et O<sub>2</sub> ont augmenté.
 
 **Origine du O<sub>2</sub>:**
 
@@ -61,9 +63,7 @@ Les flux entre ces différents réservoirs constituent le cycle du carbone.
 
 <a href="https://ipfs.io/ipfs/QmVi9JUgocBKWCEy8N3i3f4EMkKcNgRpKAqqhsLrR721KG"><img src="https://ipfs.io/ipfs/QmVi9JUgocBKWCEy8N3i3f4EMkKcNgRpKAqqhsLrR721KG" alt="" width=100%></a>
 
-*Tous les flux sont en Gt / an.*  
-
-*Les perturbations anthropiques sont représentées en rouge.*
+*Tous les flux sont en Gt / an. Les perturbations anthropiques sont représentées en rouge.*
 
 *H = homme, P = photosynthèse, R = réspiration.*
 
@@ -121,3 +121,39 @@ Ainsi, le recensement des pollens présents à une même profondeur d'une carott
 Un spectre pollinique permet de réaliser un « instantané » sur le climat régional à l’époque de la sédimentation. Différents spectres polliniques superposés forment un [diagramme pollinique](https://ipfs.io/ipfs/QmUSwdzGTWQaTMqnJn3Pfzt6xp8vvvT9W25nDMsEMy5rVu) qui permet de reconstituer les fluctuations climatiques au cours du temps. 
 
 #### B: Origines des variations climatiques récentes.
+
+###### 1: Les intéractions CO<sub>2</sub> - Climats
+
+[-> Activité 5](https://github.com/YannBouyeron/EST/blob/master/A5.md)
+
+Lors de sa précipitation, la neige emprisonne et fossilise des gaz atmosphériques contemporains de la chute de neige et de son tassement. Une analyse des gaz contenus dans ces micro-bulles fossiles permet de déterminer la composition atmosphérique de l’époque, notamment la composition en CO<sub>2</sub>, H<sub>2</sub>O, CH<sub>4</sub>...
+
+Certains de ces gaz, tels que ceux cités ci dessus, ont la propriété de transmettre les longueurs d'ondes dans le domaine du visible, tout en absorbant les longueurs d'ondes dans le domaine de l'infrarouge. Cette absorption provoquant leur échauffement, l'équilibre thermique de ces molécules gazeuses s'établit par une ré-émission dans le domaine de l'infra rouge. Ces gaz sont qualifiés de gaz à effet de serre (GES).
+
+On observe une corrélation positive entre les variations de la teneur atmosphérique de ces GES et les variations climatiques (déduites des mesures du δ des glaces) au cours du quaternaire.
+
+**Les variations de la teneur en CO<sub>2</sub> atmosphérique induisent des variations de températures: L’éffet de serre.**
+
+La majeure partie de l'énergie rayonnée par le Soleil se situe dans des longueurs d'ondes auxquelles l'atmosphère est transparente (c'est-à-dire entre 0,2 et 0,5 micromètres).
+
+Au contraire, une planète rayonne principalement dans les longueurs d'onde de l'infrarouge, entre 4 et 12 micromètres. Ces longueurs d'onde sont fortement absorbées par les gaz à effet de serre de l'atmosphère.
+
+Lorsqu'une molécule de gaz absorbe un photon infrarouge, elle le ré-émet rapidement. Cette ré-émission se fait dans une direction aléatoire. Ainsi, environ la moitié du rayonnement infrarouge émis par la surface de la planète repart dans l'espace (la part ré-émise par l'atmosphère vers le haut), tandis que l'autre moitié retourne à la surface (la part ré-émise par l'atmosphère vers le bas).
+
+<div align=center><a href="https://ipfs.io/ipfs/QmV7ZKb1SsmeUKKnNfcZbc2kUbUCjah1smH3C22dcr78CY"><img src="https://ipfs.io/ipfs/QmV7ZKb1SsmeUKKnNfcZbc2kUbUCjah1smH3C22dcr78CY" width=80%></a></div>
+
+Dans ce modèle (terre assimilée à un corps noir), en présence de CO<sub>2</sub>, la surface absorbe et ré émet deux fois plus d'énergie qu'en l'absence de CO<sub>2</sub> ce qui provoque un décalage de l'équilibre thermique: la température d'équilibre est plus élevée en présence de CO<sub>2</sub> qu'en l'absence de CO<sub>2</sub>.
+
+**Les variations de températures induisent des variations de la teneur en CO<sub>2</sub> atmosphérique: Les mécanismes de dégazage / dissolution du CO<sub>2</sub>.**
+
+La solubilité du CO<sub>2</sub> dépend de la température:
+
+- Une augmentation de température induit le dégazage CO<sub>2</sub> et donc une augmentation de la concentration en CO<sub>2</sub> atmosphérique.
+
+- Une diminution de la température induit la dissolution du CO<sub>2</sub> et donc une diminution de la concentration en CO<sub>2</sub> atmosphérique.
+
+**Le CO<sub>2</sub> amplifie les variations climatiques selon un mécanisme de rétroaction positive:**
+
+- Lors d’une période de réchauffement climatique, la baisse de solubilité du CO<sub>2</sub> dans l’eau, entraîne une augmentation de la concentration de ce gaz dans l’atmosphère (dégazage) et donc une accentuation de l’élévation de température moyenne de l’atmosphère par effet de serre. Le réchauffement climatique est amplifié. 
+
+- Lors d'une période de refroidissement, l'augmentation de la solubilité du CO<sub>2</sub> dans l'eau, entraîne une diminution de la concentration de ce gaz dans l'atmosphère (dissolution) et donc une diminution de l'effet de serre. Le refroidissement climatique est amplifié.
