@@ -73,7 +73,7 @@ Les perturbations anthropiques (combustion des énergies fossiles) induisent un 
 
 ## II : La complexité du système climatique.
 
-La météorologie étudie phénomènes atmosphériques et mesure différents paramètres: température, pression, hygrométrie, pluviométrie, anémométrie, nébulosité..) afin de prévoir les variations climatiques à court terme (quelques heures à quelques jours).
+La météorologie étudie les phénomènes atmosphériques et mesure différents paramètres: température, pression, hygrométrie, pluviométrie, anémométrie, nébulosité..) afin de prévoir les variations climatiques à court terme (quelques heures à quelques jours).
 
 La climatologie est l’étude du climat (local ou global) sur des échelles de temps longues (décénie, siècle). La température moyenne (ou température d’équilibre) de la terre est déterminée grâce aux mesures effectuées par les stations météorologiques (inégalement) dispersées sur terre et grâce aux données satellites.
 
