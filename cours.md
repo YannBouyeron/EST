@@ -157,3 +157,26 @@ La solubilité du CO<sub>2</sub> dépend de la température:
 - Lors d’une période de réchauffement climatique, la baisse de solubilité du CO<sub>2</sub> dans l’eau, entraîne une augmentation de la concentration de ce gaz dans l’atmosphère (dégazage) et donc une accentuation de l’élévation de température moyenne de l’atmosphère par effet de serre. Le réchauffement climatique est amplifié. 
 
 - Lors d'une période de refroidissement, l'augmentation de la solubilité du CO<sub>2</sub> dans l'eau, entraîne une diminution de la concentration de ce gaz dans l'atmosphère (dissolution) et donc une diminution de l'effet de serre. Le refroidissement climatique est amplifié.
+
+
+###### 2: Le rôle de l’albédo.
+
+[-> Activité 6](https://github.com/YannBouyeron/EST/blob/master/Activité%206%20Albédo%20-%20Correction.pdf)
+
+L’albédo est le rapport entre la quantité d’énergie réfléchie et la quantité d’énergie incidente: 
+
+<p align=center><strong>A = E<sub>Réfléchie</sub> / E<sub>Incidente</sub> * 100</strong></p>
+
+L’albédo est d’environ 30% actuellement sur Terre.
+
+Plus une surface réfléchit d’énergie et moins elle en absorbe et moins elle s’échauffe. Les radiomètres montrent que les calottes glaciaires sont les zones qui possèdent le plus fort albédo, ce sont donc ces zones qui renvoient beaucoup d'énergie contribuant ainsi au refroidissement de la planète.
+
+- Lors d'une période de réchauffement, les calottes glaciaires fondent, leur surface diminue ce qui induit une diminution de l'albédo. La terre se réchauffe accentuant ainsi la fonte des calottes glaciaires. Le réchauffement climatique est amplifié.
+
+- Lors d’une période de refroidissement, la surface des calottes glaciaires augmente ce qui induit l’augmentation de l'albédo. La Terre se refroidit induisant ainsi l'expansion des calottes glaciaires. Le refroidissement climatique est amplifié.
+
+<p></br></br></p>
+
+<p align=center><strong>Le CO<sub>2</sub> et l’albédo: des mécanismes amplificateurs des variations climatiques:<strong></p>
+
+<div align=center><a href="https://ipfs.io/ipfs/QmNVCxVFAAB6Gw33qhc3mRUpgCbx8bdUugPCs2vnH3LDQB"><img src="https://ipfs.io/ipfs/QmNVCxVFAAB6Gw33qhc3mRUpgCbx8bdUugPCs2vnH3LDQB" width=100%></a></div>
