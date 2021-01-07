@@ -161,7 +161,7 @@ La solubilité du CO<sub>2</sub> dépend de la température:
 
 ###### 2: Le rôle de l’albédo.
 
-[-> Activité 6](https://github.com/YannBouyeron/EST/blob/master/Activité%206%20Albédo%20-%20Correction.pdf)
+[-> Activité 6](https://github.com/YannBouyeron/EST/blob/master/A6correction.pdf)
 
 L’albédo est le rapport entre la quantité d’énergie réfléchie et la quantité d’énergie incidente: 
 
