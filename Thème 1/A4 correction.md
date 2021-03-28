@@ -59,7 +59,7 @@ Le δ<sup>18</sup>O de l’eau de pluie et la température ont été [mesurés](
 </table>
 </div>
 
-En fonction du lieu choisi, il n'existe pas toujours une [corrélation](https://github.com/YannBouyeron/EST/blob/master/correlation.md) entre les valeurs du δ<sup>18</sup>O des eaux de précipitations et la moyenne mensuelle (ou annuelle) des températures de l'air. La corrélation est forte (R > 0,8) aux hautes latitudes (Pôles), mais très faibles (R = 0) aux faibles latitudes (Équateur).
+En fonction du lieu choisi, il n'existe pas toujours une [corrélation](https://github.com/YannBouyeron/EST/blob/master/Thème%201/correlation.md) entre les valeurs du δ<sup>18</sup>O des eaux de précipitations et la moyenne mensuelle (ou annuelle) des températures de l'air. La corrélation est forte (R > 0,8) aux hautes latitudes (Pôles), mais très faibles (R = 0) aux faibles latitudes (Équateur).
 
 La corrélation observée entre t° et δ<sup>18</sup>O aux hautes latitudes est une corrélation positive: une augmentation de la température de l'air est corrélée à une augmentation du δ<sup>18</sup>O des précipitations. 
 

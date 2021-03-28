@@ -83,7 +83,7 @@ La prévision des climats futurs nécessite l’identification des principaux pa
 
 ###### 1: Le delta isotopique des glaces polaires:
 
-[-> Correction activité 4](https://github.com/YannBouyeron/EST/blob/master/A4%20correction.md)
+[-> Correction activité 4](https://github.com/YannBouyeron/EST/blob/master/Thème%201/A4%20correction.md)
 
 Au niveau des calottes polaires, le delta isotopique (δ18O ou δD) de la glace est fonction de la température de l'air qui régnait au dessus de la calotte lors des précipitations neigeuses à l'origine de la glace. Plus le delta isotopique de la glace est élevé plus la température de l'air était élevée lors de la précipitation neigeuse.
 
@@ -124,7 +124,7 @@ Un spectre pollinique permet de réaliser un « instantané » sur le climat ré
 
 ###### 1: Les intéractions CO<sub>2</sub> - Climats
 
-[-> Activité 5](https://github.com/YannBouyeron/EST/blob/master/A5.md)
+[-> Activité 5](https://github.com/YannBouyeron/EST/blob/master/Thème%201/A5.md)
 
 Lors de sa précipitation, la neige emprisonne et fossilise des gaz atmosphériques contemporains de la chute de neige et de son tassement. Une analyse des gaz contenus dans ces micro-bulles fossiles permet de déterminer la composition atmosphérique de l’époque, notamment la composition en CO<sub>2</sub>, H<sub>2</sub>O, CH<sub>4</sub>...
 
@@ -161,7 +161,7 @@ La solubilité du CO<sub>2</sub> dépend de la température:
 
 ###### 2: Le rôle de l’albédo.
 
-[-> Activité 6](https://github.com/YannBouyeron/EST/blob/master/A6correction.pdf)
+[-> Activité 6](https://github.com/YannBouyeron/EST/blob/master/Thème%201/A6correction.pdf)
 
 L’albédo est le rapport entre la quantité d’énergie réfléchie et la quantité d’énergie incidente: 
 
