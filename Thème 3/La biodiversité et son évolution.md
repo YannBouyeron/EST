@@ -25,7 +25,7 @@ La taille limitée des échantillons induit cependant une **fluctutation d’éc
 
 **L’écart type** S d’une proportion P d’un caractère donné dans un échantillon de taille finie C est donné par la formule suivante: **S = (P * (1 - P) / C)<sup>0,5</sup>**
 
-Les différentes simulations montrent que:
+Les différentes [simulations](https://ipfs.io/ipfs/QmcSCvBgH72LB3HpfgdE3tasbTRaVPXbYJ7BoJthkUwxGL) montrent que:
 
 - Plus la taille des échantillons est faible, plus l’écart type est grand (et inversement).
 - Plus le nombre d’échantillons étudiés est grand plus l’écart type mesuré se rapproche de l’écart type théorique donné par la formule précédente.
